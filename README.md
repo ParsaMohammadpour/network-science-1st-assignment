@@ -9,5 +9,5 @@ And from this file we can conclude that the distribution of words in charles dar
 	
 **2. Applying failure on 3 famous graphs:** <br />
 &emsp; For this part the relevant code is in [graph_failures](https://github.com/ParsaMohammadpour/Graph-1st-Assignment/blob/main/graph_failures.ipynb) notebook file.
-Also there is another version for this topic, failure comparison, which is more persice bacause all these 3 graphs (small-worlds, scale-free & randoms) in which they have same node number and same degree mean. This repo name is [Graph-Failure-Comparison](https://github.com/ParsaMohammadpour/Graph-Failure-Comparison).
+Also there is another version for this topic, failure comparison, which is more persice bacause all these 3 graphs (small-worlds, scale-free & randoms) in which they have same node number and same degree mean. This repo name is [graph-failure-comparison](https://github.com/ParsaMohammadpour/graph-failure-comparison).
 		
